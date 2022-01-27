@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377400217233",
+    "project_id": "anxietytherapy-5d1f9",
+    "storage_bucket": "anxietytherapy-5d1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377400217233:android:324f4ca1e2a00599423930",
+        "android_client_info": {
+          "package_name": "com.example.anxietytherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377400217233-jnde035dij15sqr3m85l0phs670m2g4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLHXa2dDAxBJPOgb8YjJw-jOxvU2N53g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377400217233-jnde035dij15sqr3m85l0phs670m2g4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
